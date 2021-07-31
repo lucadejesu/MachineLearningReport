@@ -1,4 +1,4 @@
-#Stroke prediction: How does Gaussian Naive Bayes perform compared to a Decision tree?
+**Stroke prediction: How does Gaussian Naive Bayes perform compared to a Decision tree?**
 
 This repository represents a term project for machine learning that aims to predict strokes from a variety of major risk factors.
 It uses a dataset from Kaggle, publicly available at: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset>
